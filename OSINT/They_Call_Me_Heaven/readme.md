@@ -1,0 +1,1 @@
+Tell me where I am using my coordinates like CCUJ{latitude,longitude} eg. CCUJ{25.5,2.6}
