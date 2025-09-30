@@ -35,7 +35,7 @@ Each writeup includes:
 
 For any queries or issues, please reach out via official CyberCUJ social media:
 
-* **LinkedIn:** [@CyberCUJ](https://www.linkedin.com/company/cybercuj)
+* **LinkedIn:** [@CyberCUJ](https://www.linkedin.com/company/cybercuj) | 
 Instagram: @CyberCUJ
 ---
 
